@@ -21,7 +21,7 @@
 
 >오늘 배운내용은<br>
 ![캡처10](https://user-images.githubusercontent.com/80237099/114126284-1b940780-9933-11eb-8aa2-54a76571d86f.PNG)
-![캡처11](https://user-images.githubusercontent.com/80237099/114126374-441c0180-9933-11eb-9baa-a370da07bab6.PNG)
+![캡처11](https://user-images.githubusercontent.com/80237099/114126374-441c0180-9933-11eb-9baa-a370da07bab6.PNG)<br>
 위내용 같은 반복문과 배열을 배워봤고 집에서 조금씩 복습하는 중입니다.
 
 
