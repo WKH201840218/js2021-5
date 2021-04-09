@@ -12,14 +12,14 @@
 ## [04월 05일]
 > 오늘은 수업중 반복문을 배워보았습니다. <br>
 
-> 오늘도 그렇게 쉽자않게 진행했지만 저번주보다는 비교적 편하다는 느낌이 있었습니다.
+> 오늘도 그렇게 쉽자않게 진행했지만 저번주보다는 비교적 편하다는 느낌이 있었습니다.<br>
 몇몇 오류가 있긴했습니다.![이상한 오류](https://user-images.githubusercontent.com/80237099/114125963-76792f00-9932-11eb-9d32-7f72bd01b1b8.PNG)
 ![이상한 오류2](https://user-images.githubusercontent.com/80237099/114126003-85f87800-9932-11eb-8546-6bfdfc439863.PNG)
 ![이상한 오류3](https://user-images.githubusercontent.com/80237099/114126036-94469400-9932-11eb-82e8-041eb192d8bb.PNG)
 역시 무엇이 문제인지 감도안잡힙니다.
 강의내용 다시보면서 조금씩 고쳐보려고 합니다.<br>
 
->오늘 배운내용은
+>오늘 배운내용은<br>
 ![캡처10](https://user-images.githubusercontent.com/80237099/114126284-1b940780-9933-11eb-8aa2-54a76571d86f.PNG)
 ![캡처11](https://user-images.githubusercontent.com/80237099/114126374-441c0180-9933-11eb-9baa-a370da07bab6.PNG)
 위내용 같은 반복문과 배열을 배워봤고 집에서 조금씩 복습하는 중입니다.
