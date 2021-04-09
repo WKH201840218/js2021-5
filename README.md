@@ -15,7 +15,7 @@
 > 오늘도 그렇게 쉽자않게 진행했지만 저번주보다는 비교적 편하다는 느낌이 있었습니다.<br>
 몇몇 오류가 있긴했습니다.<br>![이상한 오류](https://user-images.githubusercontent.com/80237099/114125963-76792f00-9932-11eb-9d32-7f72bd01b1b8.PNG)
 ![이상한 오류2](https://user-images.githubusercontent.com/80237099/114126003-85f87800-9932-11eb-8546-6bfdfc439863.PNG)
-![이상한 오류3](https://user-images.githubusercontent.com/80237099/114126036-94469400-9932-11eb-82e8-041eb192d8bb.PNG)
+![이상한 오류3](https://user-images.githubusercontent.com/80237099/114126036-94469400-9932-11eb-82e8-041eb192d8bb.PNG)<br>
 역시 무엇이 문제인지 감도안잡힙니다.
 강의내용 다시보면서 조금씩 고쳐보려고 합니다.<br>
 
