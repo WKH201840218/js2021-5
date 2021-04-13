@@ -43,11 +43,44 @@
 // }
 // print("사과",10);
 // print("사과");
-function print(name="무명", count=1) {
-       console.log(`${name}이가 ${count}개 있습니다.`);
-    }
-print("사과",10);
-print("사과");
-print();
+//-----------
+// function print(name="무명", count=1) {
+//        console.log(`${name}이가 ${count}개 있습니다.`);
+//     }
+// print("사과",10);
+// print("사과");
+// print();
+//======
+// function tenTimes(foo) {
+//     for (let i = 0; i < 10; i++) {
+//         foo();
+//     }
+// }
+
+// tenTimes( function () {
+//     console.log("함수 호출");
+// });
+//----------------
+// let inputA = '52';
+// let inputB = '52.273';
+// let inputC = '1403동';
+
+// console.log(parseInt(inputA));
+
+// console.log(parseInt(inputB));
+// console.log(parseFloat(inputB));
+
+// console.log(parseInt(inputC));
 
 
+// console.log(Number(inputA));
+// console.log(Number(inputB));
+// console.log(Number(inputC));
+
+setTimeout(() => {
+    console.log("1초 경과!");
+}, 1000)
+
+setInterval(() => {
+    console.log("인터벌 1초 경과!");
+}, 1000)
