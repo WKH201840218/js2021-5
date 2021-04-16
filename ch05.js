@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //  익명적 함수
   let foo = function() {
       console.log("첫번째 줄");
@@ -6,6 +7,16 @@
 
  foo();
  console.log(foo);
+=======
+// 익명적 함수
+// let foo =function() {
+//     console.log("첫번째 줄");
+//     console.log("두번째 줄");
+// };
+
+// foo();
+// console.log(foo);
+>>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d
 
 //선언적 함수
 
@@ -77,6 +88,7 @@
 // console.log(Number(inputB));
 // console.log(Number(inputC));
 
+<<<<<<< HEAD
 // setTimeout(() => {
 //     console.log("1초 경과!");
 // }, 1000)
@@ -84,3 +96,12 @@
 // setInterval(() => {
 //     console.log("인터벌 1초 경과!");
 // }, 1000)
+=======
+setTimeout(() => {
+    console.log("1초 경과!");
+}, 1000)
+
+setInterval(() => {
+    console.log("인터벌 1초 경과!");
+}, 1000)
+>>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d

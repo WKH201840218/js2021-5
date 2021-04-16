@@ -84,8 +84,12 @@ console.log(foo);<br>
 ![캡처11](https://user-images.githubusercontent.com/80237099/114126374-441c0180-9933-11eb-9baa-a370da07bab6.PNG)<br>
 위내용 같은 반복문과 배열을 배워봤고 집에서 조금씩 복습하는 중입니다.
 
+<<<<<<< HEAD
 27번 텍스트는 테스트 문서입니다. 본문과는 무관한 내용입니다.
 12345 -->
+=======
+>text test
+>>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d
 
 
 <!-- ## [03월 30일]
