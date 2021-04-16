@@ -15,3 +15,5 @@ console.log(test);
 
 number =  "초기화 해 주세요";
 console.log(number);
+
+// 1234
