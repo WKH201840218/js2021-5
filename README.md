@@ -40,6 +40,34 @@ console.log(foo);<br>
  foo();<br>
  console.log(foo);<br>
 
+>등등을 비롯한
+
+ >let inputA = '52';<br>
+ let inputB = '52.273';<br>
+ let inputC = '1403동';<br>
+<br>
+ console.log(parseInt(inputA));<br>
+<br>
+ console.log(parseInt(inputB));<br>
+ console.log(parseFloat(inputB));<br>
+<br>
+ console.log(parseInt(inputC));<br>
+<br>
+<br>
+ console.log(Number(inputA));<br>
+ console.log(Number(inputB));<br>
+ console.log(Number(inputC));<br>
+<br>
+ setTimeout(() => {<br>
+     console.log("1초 경과!");<br>
+ }, 1000)<br>
+<br>
+ setInterval(() => {<br>
+     console.log("인터벌 1초 경과!");<br>
+ }, 1000)<br>
+
+>함수들을 같이 코딩해보았고<br>비교적 실행결과가 잘나와서 수월하게<br> 코딩했습니다.
+
 
 <!-- ## [04월 05일]
 > 오늘은 수업중 반복문을 배워보았습니다. <br>
