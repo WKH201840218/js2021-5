@@ -1,13 +1,13 @@
-<<<<<<< HEAD
-//  익명적 함수
-  let foo = function() {
-      console.log("첫번째 줄");
-     console.log("두번째 줄");
-  };
+// <<<<<<< HEAD
+// //  익명적 함수
+//   let foo = function() {
+//       console.log("첫번째 줄");
+//      console.log("두번째 줄");
+//   };
 
- foo();
- console.log(foo);
-=======
+//  foo();
+//  console.log(foo);
+// =======
 // 익명적 함수
 // let foo =function() {
 //     console.log("첫번째 줄");
@@ -16,7 +16,7 @@
 
 // foo();
 // console.log(foo);
->>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d
+// >>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d
 
 //선언적 함수
 
@@ -88,7 +88,7 @@
 // console.log(Number(inputB));
 // console.log(Number(inputC));
 
-<<<<<<< HEAD
+// <<<<<<< HEAD
 // setTimeout(() => {
 //     console.log("1초 경과!");
 // }, 1000)
@@ -96,12 +96,40 @@
 // setInterval(() => {
 //     console.log("인터벌 1초 경과!");
 // }, 1000)
-=======
-setTimeout(() => {
-    console.log("1초 경과!");
-}, 1000)
+// =======
+// setTimeout(() => {
+//     console.log("1초 경과!");
+// }, 1000)
 
-setInterval(() => {
-    console.log("인터벌 1초 경과!");
-}, 1000)
->>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d
+// let foo = setInterval(() => {
+//     console.log("인터벌 1초 경과!");
+// }, 1000)
+
+// setTimeout(() => {
+//     clearInterval(foo);
+// }, 6000)
+
+// let foo;
+// foo = 10;
+// foo = 20;
+// foo = "세번째";
+
+
+// console.log(foo);
+
+// let foo;
+// foo = () => { console.log("1st");}
+// foo = () => { console.log("2nd");}
+// foo = () => { console.log("3rd");}
+
+// foo();
+let name = "dong"
+foo = () => { 
+    let name = "synn";
+    console.log(this.name);
+ };
+function foo() {
+     console.log("this.name"); 
+};
+
+foo();
