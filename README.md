@@ -15,53 +15,53 @@
 >함수를 배워보았습니다. 크게 이해가 안되는 부분은 없었고<br> 
 비교적 수월하게 진행되었습니다.
 
-let name = "dong"
-foo = () => { 
-    let name = "synn";
-    console.log(this.name);
- };
-function foo() {
-     console.log("this.name"); 
-};
-
-foo();
-
+let name = "dong"<br>
+foo = () => { <br>
+    let name = "synn";<br>
+    console.log(this.name);<br>
+ };<br>
+function foo() {<br>
+     console.log("this.name"); <br>
+};<br>
+<br>
+foo();<br>
+<br>
 >위 문서같은 함수도 잠깐 배워보았고
+<br>
+let foo = ["사과","배","바나나","딸기"];<br>
+<br>
+console.log(foo[0]);<br>
+console.log(foo[3]);<br>
+<br>
 
-let foo = ["사과","배","바나나","딸기"];
+let foo = {<br>
+    제품명: "건조 망고",<br>
+    유행: "당절임",<br>
+    원산지: "필리핀",<br>
+    price: 1200<br>
+};<br>
+<br>
+console.log(foo);<br>
+console.log(foo.제품명);<br>
+console.log(foo.price);<br>
+<br>
+for (let key in foo) {<br>
+    console.log(`${key}: ${foo[key]}`);<br>
+}<br>
 
-console.log(foo[0]);
-console.log(foo[3]);
-
-
-let foo = {
-    제품명: "건조 망고",
-    유행: "당절임",
-    원산지: "필리핀",
-    price: 1200
-};
-
-console.log(foo);
-console.log(foo.제품명);
-console.log(foo.price);
-
-for (let key in foo) {
-    console.log(`${key}: ${foo[key]}`);
-}
-
->위 내용과 같은 객체의 기본과 반복문에 대해서도 배워 보았습니다.\
+>위 내용과 같은 객체의 기본과 반복문에 대해서도 배워 보았습니다.
 
 ![cpjs](https://user-images.githubusercontent.com/80237099/116540327-f9374d80-a924-11eb-8148-fcb597b9bc5b.png)<br>
 사진과 같이 많은 코딩을 따라해봤으며 
 
-function Product(name2020, price2020){
-    this.name2021 = name2020;
-    this.price2021 = price2020;
-}
-
-let product = new Product("바나나", 1200);
-
-console.log(product);
+function Product(name2020, price2020){<br>
+    this.name2021 = name2020;<br>
+    this.price2021 = price2020;<br>
+}<br>
+<br>
+let product = new Product("바나나", 1200);<br>
+<br>
+console.log(product);<br>
 
 위에 코드를 배울때 집중력이 흐려졌는지 짧게 복습해볼 예정입니다.
 
