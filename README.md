@@ -9,7 +9,59 @@
 <table>
 </table> -->
 
-## [04월 13일]
+## [4월 27일]
+>객체 <br>
+
+>함수를 배워보았습니다. 크게 이해가 안되는 부분은 없었고<br> 
+비교적 수월하게 진행되었습니다.
+
+let name = "dong"
+foo = () => { 
+    let name = "synn";
+    console.log(this.name);
+ };
+function foo() {
+     console.log("this.name"); 
+};
+
+foo();
+
+>위 문서같은 함수도 잠깐 배워보았고
+
+let foo = ["사과","배","바나나","딸기"];
+
+console.log(foo[0]);
+console.log(foo[3]);
+
+
+let foo = {
+    제품명: "건조 망고",
+    유행: "당절임",
+    원산지: "필리핀",
+    price: 1200
+};
+
+console.log(foo);
+console.log(foo.제품명);
+console.log(foo.price);
+
+for (let key in foo) {
+    console.log(`${key}: ${foo[key]}`);
+}
+
+>위 내용과 같은 객체의 기본과 반복문에 대해서도 배워 보았습니다.\
+
+![cpjs](https://user-images.githubusercontent.com/80237099/116540327-f9374d80-a924-11eb-8148-fcb597b9bc5b.png)<br>
+사진과 같이 많은 코딩을 따라해봤으며 짧게 복습해볼 예정입니다.
+
+
+
+
+
+
+
+
+<!-- ## [04월 13일]
 >함수 <br>
 
 >6주 동안 크고 작은 오류들이 줄비하게 나타나서 많은 어려움이 있었지만, <br>
@@ -66,7 +118,7 @@ console.log(foo);<br>
      console.log("인터벌 1초 경과!");<br>
  }, 1000)<br>
 
->함수들을 같이 코딩해보았고<br>비교적 실행결과가 잘나와서 수월하게<br> 코딩했습니다.
+>함수들을 같이 코딩해보았고<br>비교적 실행결과가 잘나와서 수월하게<br> 코딩했습니다. -->
 
 
 <!-- ## [04월 05일]
@@ -87,9 +139,9 @@ console.log(foo);<br>
 <<<<<<< HEAD
 27번 텍스트는 테스트 문서입니다. 본문과는 무관한 내용입니다.
 12345 -->
-=======
+<!-- =======
 >text test
->>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d
+>>>>>>> 2b3af220afe78c6c445d9573224d6fc3b39deb2d -->
 
 
 <!-- ## [03월 30일]
