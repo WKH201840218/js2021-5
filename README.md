@@ -50,7 +50,6 @@ for (let key in foo) {<br>
 }<br>
 
 >위 내용과 같은 객체의 기본과 반복문에 대해서도 배워 보았습니다.
-
 ![cpjs](https://user-images.githubusercontent.com/80237099/116540327-f9374d80-a924-11eb-8148-fcb597b9bc5b.png)<br>
 사진과 같이 많은 코딩을 따라해봤으며 
 
@@ -63,7 +62,11 @@ let product = new Product("바나나", 1200);<br>
 <br>
 console.log(product);<br>
 
-위에 코드를 배울때 집중력이 흐려졌는지 짧게 복습해볼 예정입니다.
+>위에 코드를 배울때 집중력이 흐려졌는지 짧게 복습해볼 예정입니다.<br>
+![cpjs2](https://user-images.githubusercontent.com/80237099/116541370-57b0fb80-a926-11eb-831b-b2e288b3c22b.png)<br>
+위 코드의 결과
+
+
 
 
 
