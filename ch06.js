@@ -48,11 +48,26 @@
 // }
 
 
-function Product(name2020, price2020){
-    this.name2021 = name2020;
-    this.price2021 = price2020;
-}
+// function Product(name2020, price2020){
+//     this.name2021 = name2020;
+//     this.price2021 = price2020;
+// }
 
-let product = new Product("바나나", 1200);
+// let product = new Product("바나나", 1200);
 
-console.log(product);
+// console.log(product);
+
+
+// let number = new Number(466);
+// let string = new String('Hello');
+// let boolean = new Boolean(true);
+
+// console.log(typeof number);
+// console.log(typeof string);
+// console.log(typeof boolean);
+
+let number = 314.1504245;
+
+console.log(number.toFixed(1));
+console.log(number.toFixed(3));
+console.log(number.toFixed(sd));
