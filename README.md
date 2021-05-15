@@ -19,10 +19,12 @@
 >일단 간단히 교수님이 적어주신 예제들을 따라 적어 봤습니다.<br>
 ![자료1](https://user-images.githubusercontent.com/80237099/118347858-2caee480-b581-11eb-9180-c31f246dfef4.png)<br>
 ![자료2](https://user-images.githubusercontent.com/80237099/118347882-5405b180-b581-11eb-96e2-7b27dd68f591.png)<br>
-따라 적는고 공부하는건 크게 어려움은 없었지만<br>
+예제 자체는 적어 내는데 큰문제는 없었습니다.<br>
 ![자료3](https://user-images.githubusercontent.com/80237099/118347917-97f8b680-b581-11eb-8d0c-28370addc666.png)<br>
 예외 처리의 개념을 이해하는거 하고 HTML로 출력할때는 조금 어려움이 있었습니다.<br>
-그래도 일단은 따라 공부 할 수 있어서 좋았습니다.
+그래도 일단은 따라 공부 할 수 있어서 좋았습니다.<br>
+따라 적고 공부하는건 크게 어려움은 없었지만<br>
+저번에 github에 push가 안된 md파일을 집에서 다시 만들어서 올리느라 바쁜 하루였습니다.<br>
 
 
 
