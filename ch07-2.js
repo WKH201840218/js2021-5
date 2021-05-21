@@ -1,4 +1,4 @@
-//예제 7-5
+// 예제 7-5
 // let foo = new Date();
 // console.log(foo);
 
@@ -9,7 +9,7 @@
 // console.log(foo);
 
 
-//예제7-7
+// 예제7-7
 // let now = new Date();
 // let before = new Date("Dec 9, 2020");
 
