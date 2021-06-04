@@ -12,7 +12,31 @@
 
 
 
-## [5월 25일]
+
+## [6월 4일]
+
+>웹 브러우저, 문서 객체 모델, jQuery
+
+>일단 시작전 jQuery 환경을 만들기 위해 사이트를 켜놓고 객체를 찾아봤습니다.<br>
+![06051](https://user-images.githubusercontent.com/80237099/120824963-e2bf8a00-c593-11eb-91d2-7d0020fb18c4.png)<br>
+jQuery를 사용하는 다른 과목도 있어서 큰 어려움은 없었습니다.
+
+>먼저 html 객체 모델로 버튼 만들어 보는 등 간단히 코딩해보다가<br> 
+![06052](https://user-images.githubusercontent.com/80237099/120826359-4e562700-c595-11eb-8439-5dbea5f9435d.png)<br>
+html간단히 해본뒤 자바 스크립트 마무리로 살펴보고
+![06053](https://user-images.githubusercontent.com/80237099/120828130-210a7880-c597-11eb-9bf0-05867261c744.png)<br>
+jQuery도 따라 해서 결과화면을 확인해봤습니다.<br>
+![06056](https://user-images.githubusercontent.com/80237099/120830212-3b455600-c599-11eb-9ce2-bbe9c77a031e.png)<br>
+![06055](https://user-images.githubusercontent.com/80237099/120829935-f02b4300-c598-11eb-86e6-f83496bb7d78.png)<br>
+jQuery는 기본적으로 관심도 있어서 하기에 크게 어려움은 없었습니다.
+
+
+
+
+
+
+
+<!-- ## [5월 25일]
 >express 모듈 복습
 
 >본내용을 복습하기 위해 다운로드와 인터넷 확인할 필요가 있어 약간 번거로웁이 있었지만<br>
@@ -23,7 +47,7 @@
 ![오늘 자료2](https://user-images.githubusercontent.com/80237099/119699259-edd83300-be8c-11eb-8096-d75da93cd7e6.png)<br>
 코딩 실행해보다 보니깐<br>
 ![오늘 자료3](https://user-images.githubusercontent.com/80237099/119699407-1ceea480-be8d-11eb-881c-daded50aa80c.png)<br>
-이런 간단한 오류도 있었지만 공부하는 느낌으로 차근차근 코딩내용을 찾아볼 수 있었습니다.
+이런 간단한 오류도 있었지만 공부하는 느낌으로 차근차근 코딩내용을 찾아볼 수 있었습니다. -->
 
 
 

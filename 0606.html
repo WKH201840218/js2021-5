@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script>
+        $(document).ready(function () {
+            var $headers = $('h1');
+            for (var i = 0; i < $headers.length; i++) {
+                if (i % 2 == 1) {
+                    var domElement = $headers.get(i);
+                    $(domElement).css('backgroundColor', 'red');
+                }
+            }
+        });
+    </script>
+</head>
+<body>
+    <h1>stand1</h1>
+    <h1>stand2</h1>
+    <h1>stand3</h1>
+    <h1>stand4</h1>
+</body>
+</html>
