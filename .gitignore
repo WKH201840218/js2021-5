@@ -1,2 +1,17 @@
 /node_modules
 package*.json
+
+*.class
+
+!lib.class
+
+tmep-*.json
+
+/build.log
+
+tmep/
+
+bin/*.txt
+
+doc/**/*.pdf
+
